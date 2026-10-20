@@ -202,7 +202,6 @@ Build and ship in this order:
 ```
 /opt/apps/MFI/
 ├── VISION.md           ← This file
-├── CLAUDE.md           ← Developer guide for AI-assisted development
 ├── docs/               ← Architecture decisions, API specs, data models
 ├── backend/            ← NestJS API server
 ├── frontend/           ← Next.js web app (admin + client portal)
